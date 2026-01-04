@@ -1,0 +1,7 @@
+{
+  "name": "Somnium: AI Dream Journal",
+  "description": "A surrealist multi-modal dream journal that captures, visualizes, and interprets your subconscious through voice, high-quality AI images, and Jungian psychological analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
